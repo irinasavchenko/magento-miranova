@@ -1,0 +1,17 @@
+{
+    "name": "irinasavchenko/magento-miranova",
+    "description": "Magento 2 theme",
+    "type": "theme",
+    "require": {
+        "etws/magento-language-ru_ru": "dev-master",
+        "swissup/module-slick-carousel": "dev-master",
+        "swissup/module-font-awesome": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Irina Savchenko",
+            "email": "issavchenko.2011@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
